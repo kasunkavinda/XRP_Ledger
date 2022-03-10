@@ -1,6 +1,5 @@
 // Import the library
 const xrpl = require("xrpl");
-const rippleKeypairs = require("ripple-keypairs");
 
 // Wrap code in an async function so we can use await
 async function main() {
